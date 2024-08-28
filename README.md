@@ -24,4 +24,4 @@ The Objectives of this analysis is to calculate.
 
 - Monthly Sales
 
-![](excel dashboard.png)
+![](exceldashboard.png)
