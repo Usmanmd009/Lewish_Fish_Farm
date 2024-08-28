@@ -24,7 +24,7 @@ The Objectives of this analysis is to calculate.
 
 - Monthly Sales
 
-![](exceldashboard.png)
+![](images12.jpg)
 
  ## Skills Demostrated
 
@@ -52,7 +52,7 @@ The is a clean data with very few null values with were filtered out.
 
 ## Data Analysis and Visualization 
 
-![](images.jpg)
+![](exceldashboard.png)
 
 
 - Total Revenue is 8,973,929 milion during the period covered.
