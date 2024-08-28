@@ -25,3 +25,18 @@ The Objectives of this analysis is to calculate.
 - Monthly Sales
 
 ![](exceldashboard.png)
+
+ ## Skills Demostrated
+
+ The following skills are demostrated
+
+  - Excel for data profiling
+    
+  - Pivorttable for KPIs
+    
+  - Silcers for filtering
+    
+  - Excel for data visualization
+
+  - ## Data Sourcing
+  - ![](datasource.jpg)
