@@ -94,5 +94,11 @@ Develop and enforce policies that support sustainable fish farming practices, pr
 
 Encourage the development of value-added products, such as smoked, dried, or processed fish, to increase profitability and competitiveness.
 
+Thanks for reading! Pls do well to share your view in the comments section, I would be glad to discuss further on this analysis.
+
+Follow me on www.linkedin.com/in/usman-muhammad-4992a3279
+
+
 ![](thankyou.jpg)
+
 
